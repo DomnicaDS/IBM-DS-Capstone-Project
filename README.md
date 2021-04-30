@@ -31,5 +31,5 @@ I've chosen to identify the best borough in London to visit after the lockdown r
 - selected top 10 categories for clustering
 - used KMeans to cluster the data 
 
-### The raport and presentation will be redone, as I completed them quickly while under deadline.
-### I'm devoted to redo the project and improve my work. 
+The project will be redone including presentation and report in order to improve my work and show the progress with version 2. 
+ 
