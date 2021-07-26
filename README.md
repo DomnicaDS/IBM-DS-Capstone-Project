@@ -30,6 +30,4 @@ I've chosen to identify the best borough in London to visit after the lockdown r
 - grouped venues by category
 - selected top 10 categories for clustering
 - used KMeans to cluster the data 
-
-The project will be redone including presentation and report in order to improve my work and show the progress with version 2. 
  
